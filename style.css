@@ -1,0 +1,21 @@
+/*This is a cascading style sheet to format our webpage */ 
+h1
+{
+  color: blue;
+}
+
+h2
+{
+  color:green;
+}
+
+ul
+{
+  color: red;
+}
+
+body
+{
+  font-family: "Times New Roman", sans-serif, "Arial Narrow"
+  text-align; justify
+}
